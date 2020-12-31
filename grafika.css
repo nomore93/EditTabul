@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana;
+    font-size: 14px;
+    background: url('EditTabul/texture.png') #bb641c;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    text-shadow: 2px 2px 1px #0a294b;
+    }
+
+h2 {
+    font-size: 1.7em;
+}
+h1,h2{
+    text-shadow: 3px 3px 7px #666666;
+}
+.centrovany {
+    text-align: center;
+}
+
+table {
+    border-spacing: 0;
+    border: 2px solid black;
+    width: 50px;
+    
+}
+
+table,table td {
+    padding: 0;
+    margin: 0;
+}
+table td{
+    border: 1px solid black;
+}
+table td input{
+    padding: 0;
+    margin: 0;
+    border: 2px solid transparent;
+    height: 100%;
+}
